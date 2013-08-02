@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/arabic
+END
+ArabicTreebankLanguagePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/arabic/ArabicTreebankLanguagePack.java
+END
+ArabicLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/arabic/ArabicLexer.java
+END
+ArabicTreeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/arabic/ArabicTreeNormalizer.java
+END
+ATBTreeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/arabic/ATBTreeUtils.java
+END
+ArabicTreebankTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/arabic/ArabicTreebankTokenizer.java
+END
+ArabicHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/arabic/ArabicHeadFinder.java
+END
+ArabicTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/arabic/ArabicTokenizer.java
+END
+ArabicTreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/arabic/ArabicTreeReaderFactory.java
+END

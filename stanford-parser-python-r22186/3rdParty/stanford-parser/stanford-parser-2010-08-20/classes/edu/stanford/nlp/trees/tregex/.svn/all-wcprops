@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex
+END
+VariableStrings.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/VariableStrings.class
+END
+Relation$ImmediatelyHeads$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$ImmediatelyHeads$1.class
+END
+TokenMgrError.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/TokenMgrError.class
+END
+TregexMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/TregexMatcher.class
+END
+Relation$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$1.class
+END
+Relation$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$3.class
+END
+Relation$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$5.class
+END
+Relation$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$7.class
+END
+Relation$20$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$20$1.class
+END
+Relation$21$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$21$1.class
+END
+Relation$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$9.class
+END
+Relation$22$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$22$1.class
+END
+TregexPattern$TRegexTreeReaderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/TregexPattern$TRegexTreeReaderFactory.class
+END
+Relation$23$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$23$1.class
+END
+Relation$HasIthChild$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$HasIthChild$1.class
+END
+TregexParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/TregexParser.class
+END
+Relation$24$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$24$1.class
+END
+DescriptionPattern.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/DescriptionPattern.class
+END
+Relation$10.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$10.class
+END
+Relation$12.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$12.class
+END
+Relation$14.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$14.class
+END
+TregexPatternCompiler.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/TregexPatternCompiler.class
+END
+Relation$UnbrokenCategoryDominates.class
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$UnbrokenCategoryDominates.class
+END
+Relation$16.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$16.class
+END
+Relation$18.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$18.class
+END
+Relation$ImmediatelyHeadedBy.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$ImmediatelyHeadedBy.class
+END
+TregexPattern.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/TregexPattern.class
+END
+Relation$UnbrokenCategoryIsDominatedBy.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$UnbrokenCategoryIsDominatedBy.class
+END
+Relation$ImmediatelyHeads.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$ImmediatelyHeads.class
+END
+Relation$Heads$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$Heads$1.class
+END
+Relation$UnbrokenCategoryDominates$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$UnbrokenCategoryDominates$1.class
+END
+Relation$ImmediatelyHeadedBy$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$ImmediatelyHeadedBy$1.class
+END
+Relation$21.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$21.class
+END
+Relation$UnbrokenCategoryIsDominatedBy$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$UnbrokenCategoryIsDominatedBy$1.class
+END
+Relation$23.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$23.class
+END
+Relation$HasIthChild.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$HasIthChild.class
+END
+Relation$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$2.class
+END
+Relation$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$4.class
+END
+TregexParserTokenManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/TregexParserTokenManager.class
+END
+Relation$HeadedBy.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$HeadedBy.class
+END
+Relation$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$6.class
+END
+Relation$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$8.class
+END
+Relation$IthChildOf.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$IthChildOf.class
+END
+Token.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Token.class
+END
+Relation$UnbrokenCategoryPrecedes$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$UnbrokenCategoryPrecedes$1.class
+END
+Relation$11.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$11.class
+END
+Relation$13.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$13.class
+END
+Relation$Heads.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$Heads.class
+END
+Relation$SearchNodeIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$SearchNodeIterator.class
+END
+Relation$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$1$1.class
+END
+Relation$15.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$15.class
+END
+Relation$UnbrokenCategoryFollows.class
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$UnbrokenCategoryFollows.class
+END
+Relation$17.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$17.class
+END
+ParseException.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/ParseException.class
+END
+Relation$4$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$4$1.class
+END
+Relation$19.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$19.class
+END
+Relation$5$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$5$1.class
+END
+Relation$6$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$6$1.class
+END
+Relation$HeadedBy$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$HeadedBy$1.class
+END
+DescriptionPattern$DescriptionMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/DescriptionPattern$DescriptionMatcher.class
+END
+Relation$7$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$7$1.class
+END
+Relation$8$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$8$1.class
+END
+Relation$9$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$9$1.class
+END
+TregexPattern$TRegexTreeReaderFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/TregexPattern$TRegexTreeReaderFactory$1.class
+END
+SimpleCharStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/SimpleCharStream.class
+END
+Relation$IthChildOf$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$IthChildOf$1.class
+END
+Relation$10$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$10$1.class
+END
+CoordinationPattern$CoordinationMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/CoordinationPattern$CoordinationMatcher.class
+END
+Relation$11$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$11$1.class
+END
+TregexParserConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/TregexParserConstants.class
+END
+Relation$12$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$12$1.class
+END
+Relation$13$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$13$1.class
+END
+Relation$14$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$14$1.class
+END
+Relation$15$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$15$1.class
+END
+Relation$16$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$16$1.class
+END
+Relation.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation.class
+END
+Relation$UnbrokenCategoryFollows$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$UnbrokenCategoryFollows$1.class
+END
+Relation$17$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$17$1.class
+END
+Relation$18$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$18$1.class
+END
+TregexPattern$TRegexTreeVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/TregexPattern$TRegexTreeVisitor.class
+END
+Relation$19$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$19$1.class
+END
+Relation$20.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$20.class
+END
+Relation$22.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$22.class
+END
+CoordinationPattern.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/CoordinationPattern.class
+END
+Relation$24.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$24.class
+END
+Relation$UnbrokenCategoryPrecedes.class
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/tregex/Relation$UnbrokenCategoryPrecedes.class
+END

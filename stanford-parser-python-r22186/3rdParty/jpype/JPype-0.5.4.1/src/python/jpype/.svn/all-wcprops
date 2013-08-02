@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype
+END
+_jwrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jwrapper.py
+END
+_windows.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_windows.py
+END
+_jproxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jproxy.py
+END
+_properties.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_properties.py
+END
+findjvm.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/findjvm.py
+END
+_linux.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_linux.py
+END
+_refdaemon.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_refdaemon.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/__init__.py
+END
+_jpackage.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jpackage.py
+END
+_jcollection.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jcollection.py
+END
+_jexception.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jexception.py
+END
+JClassUtil.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/JClassUtil.py
+END
+_jclass.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jclass.py
+END
+_jobject.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jobject.py
+END
+_pykeywords.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_pykeywords.py
+END
+_darwin.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_darwin.py
+END
+_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_gui.py
+END
+reflect.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/reflect.py
+END
+nio.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/nio.py
+END
+_jarray.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jarray.py
+END
+_core.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_core.py
+END

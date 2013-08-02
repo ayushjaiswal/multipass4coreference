@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/io
+END
+RuntimeIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/io/RuntimeIOException.java
+END
+NumberRangeFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/io/NumberRangeFileFilter.java
+END
+NumberRangesFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/io/NumberRangesFileFilter.java
+END
+Lexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/io/Lexer.java
+END
+EncodingPrintWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/io/EncodingPrintWriter.java
+END
+ExtensionFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/io/ExtensionFileFilter.java
+END
+FileSequentialCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/io/FileSequentialCollection.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/io/IOUtils.java
+END
+EncodingFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/io/EncodingFileReader.java
+END

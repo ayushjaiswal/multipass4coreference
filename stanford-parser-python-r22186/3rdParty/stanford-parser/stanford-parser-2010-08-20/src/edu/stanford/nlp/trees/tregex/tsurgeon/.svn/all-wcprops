@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon
+END
+TsurgeonParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParserTokenManager.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/Token.java
+END
+TsurgeonParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParserConstants.java
+END
+ReplaceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/ReplaceNode.java
+END
+CoindexNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/CoindexNodes.java
+END
+TsurgeonParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParser.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/Node.java
+END
+ExciseNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/ExciseNode.java
+END
+AuxiliaryTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/AuxiliaryTree.java
+END
+TreeLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/TreeLocation.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/ParseException.java
+END
+CoindexationGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/CoindexationGenerator.java
+END
+JJTTsurgeonParserState.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/JJTTsurgeonParserState.java
+END
+SimpleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/SimpleNode.java
+END
+FetchNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/FetchNode.java
+END
+AdjoinToHeadNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/AdjoinToHeadNode.java
+END
+PruneNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/PruneNode.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/TokenMgrError.java
+END
+TsurgeonParserTreeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParserTreeConstants.java
+END
+SimpleCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/SimpleCharStream.java
+END
+TsurgeonPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonPattern.java
+END
+AdjoinToFootNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/AdjoinToFootNode.java
+END
+Tsurgeon.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/Tsurgeon.java
+END
+DeleteNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/DeleteNode.java
+END
+TsurgeonPatternRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonPatternRoot.java
+END
+InsertNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/InsertNode.java
+END
+AdjoinNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/AdjoinNode.java
+END
+HoldTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/HoldTreeNode.java
+END
+RelabelNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/RelabelNode.java
+END
+MoveNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/tregex/tsurgeon/MoveNode.java
+END

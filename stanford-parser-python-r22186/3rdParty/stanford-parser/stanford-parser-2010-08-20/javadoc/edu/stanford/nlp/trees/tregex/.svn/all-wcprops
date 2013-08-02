@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/package-summary.html
+END
+TregexParserTokenManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/TregexParserTokenManager.html
+END
+TregexPatternCompiler.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/TregexPatternCompiler.html
+END
+TregexParserConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/TregexParserConstants.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/package-tree.html
+END
+ParseException.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/ParseException.html
+END
+TregexPattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/TregexPattern.html
+END
+Token.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/Token.html
+END
+TokenMgrError.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/TokenMgrError.html
+END
+TregexMatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/TregexMatcher.html
+END
+SimpleCharStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/SimpleCharStream.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/package-frame.html
+END
+TregexPattern.TRegexTreeReaderFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/trees/tregex/TregexPattern.TRegexTreeReaderFactory.html
+END

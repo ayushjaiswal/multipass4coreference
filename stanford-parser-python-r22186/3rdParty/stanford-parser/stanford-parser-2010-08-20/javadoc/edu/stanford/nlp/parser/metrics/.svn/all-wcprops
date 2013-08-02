@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics
+END
+AbstractEval.CatErrorEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/AbstractEval.CatErrorEval.html
+END
+AbstractEval.RuleErrorEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/AbstractEval.RuleErrorEval.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/package-frame.html
+END
+Evalb.CBEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/Evalb.CBEval.html
+END
+DependencyEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/DependencyEval.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/package-summary.html
+END
+TaggingEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/TaggingEval.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/package-tree.html
+END
+Evalb.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/Evalb.html
+END
+AbstractEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/AbstractEval.html
+END
+EvalbByCat.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/EvalbByCat.html
+END
+AbstractEval.ScoreEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/parser/metrics/AbstractEval.ScoreEval.html
+END

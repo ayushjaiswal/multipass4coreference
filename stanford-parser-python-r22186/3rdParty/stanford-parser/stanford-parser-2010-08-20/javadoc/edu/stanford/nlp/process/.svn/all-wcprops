@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process
+END
+LexedTokenFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/LexedTokenFactory.html
+END
+AbstractTokenizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/AbstractTokenizer.html
+END
+Morphology.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/Morphology.html
+END
+PTBEscapingProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/PTBEscapingProcessor.html
+END
+AbstractListProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/AbstractListProcessor.html
+END
+WordToSentenceProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/WordToSentenceProcessor.html
+END
+WordTokenFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/WordTokenFactory.html
+END
+WhitespaceTokenizer.WhitespaceTokenizerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/WhitespaceTokenizer.WhitespaceTokenizerFactory.html
+END
+LexerTokenizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/LexerTokenizer.html
+END
+Tokenizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/Tokenizer.html
+END
+ListProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/ListProcessor.html
+END
+TokenizerAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/TokenizerAdapter.html
+END
+SerializableFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/SerializableFunction.html
+END
+DocumentProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/DocumentProcessor.html
+END
+PTBTokenizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/PTBTokenizer.html
+END
+StripTagsProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/StripTagsProcessor.html
+END
+CoreLabelTokenFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/CoreLabelTokenFactory.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/package-frame.html
+END
+WordSegmenter.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/WordSegmenter.html
+END
+DocumentPreprocessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/DocumentPreprocessor.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/package-summary.html
+END
+WordToTaggedWordProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/WordToTaggedWordProcessor.html
+END
+Americanize.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/Americanize.html
+END
+WhitespaceTokenizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/WhitespaceTokenizer.html
+END
+WordSegmentingTokenizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/WordSegmentingTokenizer.html
+END
+PTBTokenizer.PTBTokenizerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/PTBTokenizer.PTBTokenizerFactory.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/process/package-tree.html
+END

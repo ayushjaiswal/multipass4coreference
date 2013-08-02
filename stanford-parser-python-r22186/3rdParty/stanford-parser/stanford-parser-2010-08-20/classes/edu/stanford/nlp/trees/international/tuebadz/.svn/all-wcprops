@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/tuebadz
+END
+TueBaDZLanguagePack.class
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/tuebadz/TueBaDZLanguagePack.class
+END
+TueBaDZPennTreeNormalizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/tuebadz/TueBaDZPennTreeNormalizer.class
+END
+TueBaDZHeadFinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/tuebadz/TueBaDZHeadFinder.class
+END
+TueBaDZTreeReaderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/tuebadz/TueBaDZTreeReaderFactory.class
+END

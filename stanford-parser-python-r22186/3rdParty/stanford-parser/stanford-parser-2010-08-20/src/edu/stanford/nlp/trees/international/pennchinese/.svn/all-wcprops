@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese
+END
+FragDiscardingPennTreeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/FragDiscardingPennTreeReader.java
+END
+SunJurafskyChineseHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/SunJurafskyChineseHeadFinder.java
+END
+RadicalMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/RadicalMap.java
+END
+ChineseTreebankLanguagePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/ChineseTreebankLanguagePack.java
+END
+BikelChineseHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/BikelChineseHeadFinder.java
+END
+ChineseGrammaticalRelations.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations.java
+END
+ChineseGrammaticalStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalStructure.java
+END
+CTBTreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/CTBTreeReaderFactory.java
+END
+ChineseCollinizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/ChineseCollinizer.java
+END
+CHTBTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/CHTBTokenizer.java
+END
+ChineseSemanticHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/ChineseSemanticHeadFinder.java
+END
+CharacterLevelTagExtender.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/CharacterLevelTagExtender.java
+END
+CHTBLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/CHTBLexer.java
+END
+ChineseEscaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/ChineseEscaper.java
+END
+ChineseEnglishWordMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/ChineseEnglishWordMap.java
+END
+CTBErrorCorrectingTreeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/CTBErrorCorrectingTreeNormalizer.java
+END
+ChineseHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/pennchinese/ChineseHeadFinder.java
+END

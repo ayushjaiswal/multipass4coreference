@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling
+END
+CategoryWordTagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/CategoryWordTagFactory.java
+END
+WordTagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/WordTagFactory.java
+END
+WordFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/WordFactory.java
+END
+Sentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/Sentence.java
+END
+AnnotationLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/AnnotationLookup.java
+END
+SentenceProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/SentenceProcessor.java
+END
+CategoryWordTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/CategoryWordTag.java
+END
+StringLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/StringLabel.java
+END
+HasWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/HasWord.java
+END
+WordTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/WordTag.java
+END
+HasTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/HasTag.java
+END
+HasCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/HasCategory.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/Tag.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/Word.java
+END
+CyclicCoreLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/CyclicCoreLabel.java
+END
+TaggedWordFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/TaggedWordFactory.java
+END
+BasicDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/BasicDocument.java
+END
+HasOffset.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/HasOffset.java
+END
+CoreAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/CoreAnnotation.java
+END
+TaggedWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/TaggedWord.java
+END
+CoreLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/CoreLabel.java
+END
+StringLabelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/StringLabelFactory.java
+END
+DocumentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/DocumentReader.java
+END
+HasIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/HasIndex.java
+END
+CoreAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/CoreAnnotations.java
+END
+LabelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/LabelFactory.java
+END
+Datum.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/Datum.java
+END
+WordLemmaTagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/WordLemmaTagFactory.java
+END
+ValueLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/ValueLabel.java
+END
+Featurizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/Featurizable.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/Document.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/Label.java
+END
+HasContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/HasContext.java
+END
+WordLemmaTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/WordLemmaTag.java
+END
+LabeledWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/LabeledWord.java
+END
+Labeled.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/ling/Labeled.java
+END

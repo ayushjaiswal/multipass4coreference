@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include
+END
+jp_runloopstopper.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/jp_runloopstopper.h
+END
+jpype_python.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/jpype_python.h
+END
+py_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/py_method.h
+END
+pythonenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/pythonenv.h
+END
+py_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/py_field.h
+END
+py_class.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/py_class.h
+END
+jp_cocoatools.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/jp_cocoatools.h
+END
+py_hostenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/py_hostenv.h
+END
+py_monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/py_monitor.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python
+END
+pythonenv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/pythonenv.cpp
+END
+py_field.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/py_field.cpp
+END
+jpype_module.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/jpype_module.cpp
+END
+py_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/py_class.cpp
+END
+jpype_javanio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/jpype_javanio.cpp
+END
+jpype_javaclass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/jpype_javaclass.cpp
+END
+py_hostenv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/py_hostenv.cpp
+END
+py_monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/py_monitor.cpp
+END
+jpype_javaarray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/jpype_javaarray.cpp
+END
+jpype_python.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/jpype_python.cpp
+END
+py_method.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/python/py_method.cpp
+END

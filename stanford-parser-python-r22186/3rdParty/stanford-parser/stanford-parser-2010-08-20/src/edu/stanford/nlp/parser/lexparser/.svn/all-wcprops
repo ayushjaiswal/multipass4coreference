@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser
+END
+ExhaustiveDependencyParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ExhaustiveDependencyParser.java
+END
+IntTaggedWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/IntTaggedWord.java
+END
+ExhaustivePCFGParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ExhaustivePCFGParser.java
+END
+FactoredParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/FactoredParser.java
+END
+UnaryGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/UnaryGrammar.java
+END
+GermanUnknownWordModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/GermanUnknownWordModel.java
+END
+NegraPennCollinizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/NegraPennCollinizer.java
+END
+TagProjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/TagProjection.java
+END
+LatticeEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/LatticeEdge.java
+END
+ChineseUnknownWordModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ChineseUnknownWordModel.java
+END
+Train.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Train.java
+END
+TreebankLangParserParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/TreebankLangParserParams.java
+END
+ArabicUnknownWordModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ArabicUnknownWordModel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/package.html
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Test.java
+END
+BiLexPCFGParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/BiLexPCFGParser.java
+END
+TreebankAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/TreebankAnnotator.java
+END
+MLEDependencyGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/MLEDependencyGrammar.java
+END
+BoundaryRemover.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/BoundaryRemover.java
+END
+SisterAnnotationStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/SisterAnnotationStats.java
+END
+EnglishTreebankParserParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/EnglishTreebankParserParams.java
+END
+IntDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/IntDependency.java
+END
+GrammarCompactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/GrammarCompactor.java
+END
+Hook.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Hook.java
+END
+AbstractTreebankParserParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/AbstractTreebankParserParams.java
+END
+ChineseLexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ChineseLexicon.java
+END
+Lexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Lexicon.java
+END
+ParentAnnotationStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ParentAnnotationStats.java
+END
+ChineseMarkovWordSegmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ChineseMarkovWordSegmenter.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Edge.java
+END
+AbstractDependencyGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/AbstractDependencyGrammar.java
+END
+ChineseTreebankParserParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ChineseTreebankParserParams.java
+END
+Extractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Extractor.java
+END
+BinaryRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/BinaryRule.java
+END
+CollinsPuncTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/CollinsPuncTransformer.java
+END
+UnknownWordModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/UnknownWordModel.java
+END
+ChineseCharacterBasedLexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ChineseCharacterBasedLexicon.java
+END
+ArabicTreebankParserParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ArabicTreebankParserParams.java
+END
+AbstractTreeExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/AbstractTreeExtractor.java
+END
+HTKLatticeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/HTKLatticeReader.java
+END
+ChineseSimWordAvgDepGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ChineseSimWordAvgDepGrammar.java
+END
+FastFactoredParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/FastFactoredParser.java
+END
+ExactGrammarCompactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ExactGrammarCompactor.java
+END
+Lattice.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Lattice.java
+END
+TreeAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/TreeAnnotator.java
+END
+ParserData.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ParserData.java
+END
+ChineseLexiconAndWordSegmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ChineseLexiconAndWordSegmenter.java
+END
+TreeCollinizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/TreeCollinizer.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Item.java
+END
+RandomWalk.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/RandomWalk.java
+END
+PetrovLexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/PetrovLexicon.java
+END
+ArabicUnknownWordSignatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/ArabicUnknownWordSignatures.java
+END
+TreeBinarizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/TreeBinarizer.java
+END
+lexparser-manifest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/lexparser-manifest.txt
+END
+NegraPennTreebankParserParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/NegraPennTreebankParserParams.java
+END
+OutsideRuleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/OutsideRuleFilter.java
+END
+PostSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/PostSplitter.java
+END
+TueBaDZParserParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/TueBaDZParserParams.java
+END
+NodePruner.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/NodePruner.java
+END
+HookChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/HookChart.java
+END
+DependencyGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/DependencyGrammar.java
+END
+BinaryGrammarExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/BinaryGrammarExtractor.java
+END
+Scorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Scorer.java
+END
+Debinarizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Debinarizer.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Rule.java
+END
+BaseUnknownWordModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/BaseUnknownWordModel.java
+END
+LexicalizedParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/LexicalizedParser.java
+END
+CNFTransformers.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/CNFTransformers.java
+END
+TreeAnnotatorAndBinarizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/TreeAnnotatorAndBinarizer.java
+END
+MLEDependencyGrammarExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/MLEDependencyGrammarExtractor.java
+END
+IterativeCKYPCFGParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/IterativeCKYPCFGParser.java
+END
+GrammarProjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/GrammarProjection.java
+END
+UnaryRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/UnaryRule.java
+END
+EnglishUnknownWordModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/EnglishUnknownWordModel.java
+END
+BinaryGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/BinaryGrammar.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/Options.java
+END
+BaseLexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/BaseLexicon.java
+END
+EvalbFormatWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/EvalbFormatWriter.java
+END

@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese
+END
+ChineseGrammaticalRelations$NominalPassiveSubjectGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$NominalPassiveSubjectGRAnnotation.class
+END
+ChineseGrammaticalRelations$AssociativeMarkerGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$AssociativeMarkerGRAnnotation.class
+END
+ChineseGrammaticalRelations$TemporalClauseGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$TemporalClauseGRAnnotation.class
+END
+ChineseGrammaticalRelations$ArgumentGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ArgumentGRAnnotation.class
+END
+ChineseGrammaticalRelations$NegationModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$NegationModifierGRAnnotation.class
+END
+BikelChineseHeadFinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/BikelChineseHeadFinder.class
+END
+ChineseGrammaticalRelations$AdjectivalModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$AdjectivalModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$RelativeClauseModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$RelativeClauseModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$AssociativeModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$AssociativeModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$ResultativeComplementGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ResultativeComplementGRAnnotation.class
+END
+ChineseGrammaticalRelations$ComplementizerGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ComplementizerGRAnnotation.class
+END
+ChineseEnglishWordMap$SingletonHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseEnglishWordMap$SingletonHolder.class
+END
+ChineseGrammaticalRelations$ModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$SubjectGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$SubjectGRAnnotation.class
+END
+CHTBTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/CHTBTokenizer.class
+END
+ChineseGrammaticalRelations$VerbCompoundGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$VerbCompoundGRAnnotation.class
+END
+ChineseGrammaticalRelations$ClausalSubjectGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ClausalSubjectGRAnnotation.class
+END
+CHTBLexer.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/CHTBLexer.class
+END
+ChineseGrammaticalRelations$DvpModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$DvpModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$PunctuationGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$PunctuationGRAnnotation.class
+END
+ChineseGrammaticalRelations$ControllingSubjectGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ControllingSubjectGRAnnotation.class
+END
+ChineseGrammaticalRelations$PrepositionalLocalizerModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$PrepositionalLocalizerModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$VerbModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$VerbModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$NominalSubjectGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$NominalSubjectGRAnnotation.class
+END
+ChineseHeadFinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseHeadFinder.class
+END
+ChineseGrammaticalRelations$AspectMarkerGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$AspectMarkerGRAnnotation.class
+END
+RadicalMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/RadicalMap.class
+END
+ChineseGrammaticalStructure.class
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalStructure.class
+END
+ChineseGrammaticalRelations$SemanticDependentGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$SemanticDependentGRAnnotation.class
+END
+ChineseGrammaticalRelations$ModalGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ModalGRAnnotation.class
+END
+ChineseGrammaticalRelations$RangeGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$RangeGRAnnotation.class
+END
+ChineseCollinizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseCollinizer.class
+END
+ChineseSemanticHeadFinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseSemanticHeadFinder.class
+END
+ChineseGrammaticalRelations$PrepositionalModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$PrepositionalModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$NumberModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$NumberModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$AdverbialModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$AdverbialModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$ClausalComplementGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ClausalComplementGRAnnotation.class
+END
+ChineseEnglishWordMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseEnglishWordMap.class
+END
+CTBErrorCorrectingTreeNormalizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/CTBErrorCorrectingTreeNormalizer.class
+END
+ChineseGrammaticalRelations$AuxModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$AuxModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$TopicGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$TopicGRAnnotation.class
+END
+ChineseGrammaticalRelations$ParticipialModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ParticipialModifierGRAnnotation.class
+END
+FragDiscardingPennTreeReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/FragDiscardingPennTreeReader.class
+END
+ChineseGrammaticalRelations$BaGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$BaGRAnnotation.class
+END
+ChineseGrammaticalRelations$TemporalGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$TemporalGRAnnotation.class
+END
+ChineseGrammaticalRelations.class
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations.class
+END
+ChineseGrammaticalRelations$AuxPassiveGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$AuxPassiveGRAnnotation.class
+END
+ChineseGrammaticalRelations$TimePostpositionGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$TimePostpositionGRAnnotation.class
+END
+ChineseGrammaticalRelations$ClauseModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ClauseModifierGRAnnotation.class
+END
+ChineseGrammaticalRelations$DvpMarkerGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$DvpMarkerGRAnnotation.class
+END
+ChineseGrammaticalRelations$OrdNumberGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$OrdNumberGRAnnotation.class
+END
+ChineseGrammaticalRelations$AttributiveGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$AttributiveGRAnnotation.class
+END
+ChineseGrammaticalRelations$ComplementGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ComplementGRAnnotation.class
+END
+ChineseGrammaticalRelations$LocalizerComplementGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$LocalizerComplementGRAnnotation.class
+END
+ChineseGrammaticalRelations$EtcGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$EtcGRAnnotation.class
+END
+ChineseGrammaticalRelations$PrepositionalObjectGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$PrepositionalObjectGRAnnotation.class
+END
+ChineseGrammaticalRelations$NumericModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$NumericModifierGRAnnotation.class
+END
+ChineseTreebankLanguagePack.class
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseTreebankLanguagePack.class
+END
+ChineseGrammaticalRelations$ParentheticalGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ParentheticalGRAnnotation.class
+END
+SunJurafskyChineseHeadFinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/SunJurafskyChineseHeadFinder.class
+END
+ChineseGrammaticalRelations$CoordinationGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$CoordinationGRAnnotation.class
+END
+CTBTreeReaderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/CTBTreeReaderFactory.class
+END
+ChineseGrammaticalRelations$PreconjunctGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$PreconjunctGRAnnotation.class
+END
+ChineseGrammaticalRelations$DeterminerGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$DeterminerGRAnnotation.class
+END
+ChineseGrammaticalRelations$XClausalComplementGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$XClausalComplementGRAnnotation.class
+END
+ChineseGrammaticalRelations$DirectObjectGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$DirectObjectGRAnnotation.class
+END
+CTBErrorCorrectingTreeNormalizer$ChineseEmptyFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/CTBErrorCorrectingTreeNormalizer$ChineseEmptyFilter.class
+END
+ChineseGrammaticalRelations$NounCompoundModifierGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 228
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$NounCompoundModifierGRAnnotation.class
+END
+CharacterLevelTagExtender.class
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/CharacterLevelTagExtender.class
+END
+ChineseGrammaticalRelations$ObjectGRAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalRelations$ObjectGRAnnotation.class
+END
+ChineseEscaper.class
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/trees/international/pennchinese/ChineseEscaper.class
+END

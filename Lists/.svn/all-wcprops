@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/41/trunk/Lists
+END
+namegender.combine.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/Lists/namegender.combine.txt
+END
+male.unigrams.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/41/trunk/Lists/male.unigrams.txt
+END
+animate.unigrams.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/41/trunk/Lists/animate.unigrams.txt
+END
+plural.unigrams.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/Lists/plural.unigrams.txt
+END
+state-abbreviations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/22/trunk/Lists/state-abbreviations.txt
+END
+singular.unigrams.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/41/trunk/Lists/singular.unigrams.txt
+END
+inanimate.unigrams.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/41/trunk/Lists/inanimate.unigrams.txt
+END
+demonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/31/trunk/Lists/demonyms.txt
+END
+female.unigrams.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/Lists/female.unigrams.txt
+END
+neutral.unigrams.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/Lists/neutral.unigrams.txt
+END
+english.stop
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/37/trunk/Lists/english.stop
+END

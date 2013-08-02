@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees
+END
+TreeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeFactory.java
+END
+TreeLengthComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeLengthComparator.java
+END
+Treebank.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/Treebank.java
+END
+CollocationFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/CollocationFinder.java
+END
+WordCatEquivalenceClasser.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/WordCatEquivalenceClasser.java
+END
+DiskTreebank.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/DiskTreebank.java
+END
+PennTreebankTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/PennTreebankTokenizer.java
+END
+ConstituentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/ConstituentFactory.java
+END
+WordStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/WordStemmer.java
+END
+EnglishGrammaticalRelations.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/EnglishGrammaticalRelations.java
+END
+CollinsHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/CollinsHeadFinder.java
+END
+GrammaticalRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/GrammaticalRelation.java
+END
+TreeGraphNodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeGraphNodeFactory.java
+END
+LabeledScoredConstituentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/LabeledScoredConstituentFactory.java
+END
+DependencyTreeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/DependencyTreeTransformer.java
+END
+TreeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeTransformer.java
+END
+Trees.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/Trees.java
+END
+QPTreeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/QPTreeTransformer.java
+END
+TreeCoreAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeCoreAnnotations.java
+END
+SimpleConstituent.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/SimpleConstituent.java
+END
+OrderedCombinationTreeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/OrderedCombinationTreeNormalizer.java
+END
+PennTreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/PennTreeReaderFactory.java
+END
+TreebankLanguagePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreebankLanguagePack.java
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/Tree.java
+END
+LabeledScoredTreeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/LabeledScoredTreeFactory.java
+END
+WordNetConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/WordNetConnection.java
+END
+DependencyScoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/DependencyScoring.java
+END
+CompositeTreeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/CompositeTreeTransformer.java
+END
+StringLabeledScoredTreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/StringLabeledScoredTreeReaderFactory.java
+END
+GrammaticalFunctionTreeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/GrammaticalFunctionTreeNormalizer.java
+END
+CoordinationTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/CoordinationTransformer.java
+END
+TreePrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreePrint.java
+END
+ModCollinsHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/ModCollinsHeadFinder.java
+END
+BobChrisTreeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/BobChrisTreeNormalizer.java
+END
+LabeledScoredTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/LabeledScoredTreeNode.java
+END
+Constituent.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/Constituent.java
+END
+SimpleConstituentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/SimpleConstituentFactory.java
+END
+NPTmpRetainingTreeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/NPTmpRetainingTreeNormalizer.java
+END
+LabeledScoredTreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/LabeledScoredTreeReaderFactory.java
+END
+SimpleTreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/SimpleTreeReaderFactory.java
+END
+TypedDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TypedDependency.java
+END
+TransformingTreebank.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TransformingTreebank.java
+END
+Dependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/Dependencies.java
+END
+UnnamedDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/UnnamedDependency.java
+END
+FilteringTreeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/FilteringTreeReader.java
+END
+TreeGraphNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeGraphNode.java
+END
+TreeFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeFunctions.java
+END
+Labeled.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/Labeled.java
+END
+HeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/HeadFinder.java
+END
+LabeledScoredTreeLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/LabeledScoredTreeLeaf.java
+END
+TreeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeNormalizer.java
+END
+WordCatConstituent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/WordCatConstituent.java
+END
+PennTreeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/PennTreeReader.java
+END
+DependencyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/DependencyFactory.java
+END
+WordCatEqualityChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/WordCatEqualityChecker.java
+END
+SimpleTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/SimpleTree.java
+END
+TreeReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeReaderFactory.java
+END
+SemanticHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/SemanticHeadFinder.java
+END
+Dependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/Dependency.java
+END
+TreeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeVisitor.java
+END
+PennTreebankLanguagePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/PennTreebankLanguagePack.java
+END
+TreeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeReader.java
+END
+TreeTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeTokenizerFactory.java
+END
+TreebankFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreebankFactory.java
+END
+MemoryTreebank.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/MemoryTreebank.java
+END
+LabeledConstituent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/LabeledConstituent.java
+END
+LabeledScoredConstituent.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/LabeledScoredConstituent.java
+END
+GrammaticalStructureFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/GrammaticalStructureFactory.java
+END
+TreeToBracketProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeToBracketProcessor.java
+END
+AbstractCollinsHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/AbstractCollinsHeadFinder.java
+END
+SimpleTreeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/SimpleTreeFactory.java
+END
+GrammaticalStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/GrammaticalStructure.java
+END
+DependencyTyper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/DependencyTyper.java
+END
+LeftHeadFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/LeftHeadFinder.java
+END
+EnglishGrammaticalStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/EnglishGrammaticalStructure.java
+END
+CompositeTreebank.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/CompositeTreebank.java
+END
+TreeGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/TreeGraph.java
+END
+AbstractTreebankLanguagePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/AbstractTreebankLanguagePack.java
+END
+NamedDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/NamedDependency.java
+END

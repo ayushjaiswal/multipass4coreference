@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank
+END
+LineIterator$LineIteratorFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/LineIterator$LineIteratorFactory.class
+END
+IdentityFunction.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/IdentityFunction.class
+END
+ObjectBank$OBIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/ObjectBank$OBIterator.class
+END
+LineIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/LineIterator.class
+END
+TokenizerFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/TokenizerFactory.class
+END
+ObjectBank.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/ObjectBank.class
+END
+ReaderIteratorFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/ReaderIteratorFactory.class
+END
+ReaderIteratorFactory$ReaderIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/ReaderIteratorFactory$ReaderIterator.class
+END
+XMLBeginEndIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/XMLBeginEndIterator.class
+END
+IteratorFromReaderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/IteratorFromReaderFactory.class
+END
+XMLBeginEndIterator$XMLBeginEndIteratorFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/classes/edu/stanford/nlp/objectbank/XMLBeginEndIterator$XMLBeginEndIteratorFactory.class
+END

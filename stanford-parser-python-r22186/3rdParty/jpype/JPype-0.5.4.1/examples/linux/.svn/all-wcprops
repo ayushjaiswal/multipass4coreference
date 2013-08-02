@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/examples/linux
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/examples/linux/README.TXT
+END
+jpype.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/examples/linux/jpype.sh
+END
+findjvm.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/examples/linux/findjvm.py
+END

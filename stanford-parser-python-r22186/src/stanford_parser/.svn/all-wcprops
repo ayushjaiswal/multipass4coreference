@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/src/stanford_parser
+END
+standoff_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/src/stanford_parser/standoff_test.py
+END
+standoff.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/src/stanford_parser/standoff.py
+END
+dependencies_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/src/stanford_parser/dependencies_test.py
+END
+dependencies.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/src/stanford_parser/dependencies.py
+END
+parser_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/src/stanford_parser/parser_test.py
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/src/stanford_parser/parser.py
+END
+testparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/src/stanford_parser/testparser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/src/stanford_parser/__init__.py
+END

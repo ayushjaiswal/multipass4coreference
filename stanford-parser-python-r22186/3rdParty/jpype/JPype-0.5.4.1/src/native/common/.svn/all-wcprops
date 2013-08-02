@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common
+END
+jp_field.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_field.cpp
+END
+jp_monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_monitor.cpp
+END
+jp_env.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_env.cpp
+END
+jp_javaenv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_javaenv.cpp
+END
+jp_objecttypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_objecttypes.cpp
+END
+jp_primitivetypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_primitivetypes.cpp
+END
+jp_reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_reference.cpp
+END
+jp_classbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_classbase.cpp
+END
+jp_referencequeue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_referencequeue.cpp
+END
+jp_voidtype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_voidtype.cpp
+END
+jp_platform_linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_platform_linux.cpp
+END
+jp_arrayclass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_arrayclass.cpp
+END
+jp_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_class.cpp
+END
+jp_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_object.cpp
+END
+jp_platform_win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_platform_win32.cpp
+END
+jp_invocationhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_invocationhandler.cpp
+END
+jp_methodoverload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_methodoverload.cpp
+END
+jp_javaenv_autogen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_javaenv_autogen.cpp
+END
+jp_typemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_typemanager.cpp
+END
+jp_jniutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_jniutil.cpp
+END
+jp_array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_array.cpp
+END
+jp_primitivetypes_autogen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_primitivetypes_autogen.cpp
+END
+jp_method.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_method.cpp
+END
+jp_proxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_proxy.cpp
+END
+jp_typename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_typename.cpp
+END

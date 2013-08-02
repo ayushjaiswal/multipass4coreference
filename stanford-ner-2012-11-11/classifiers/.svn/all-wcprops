@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/stanford-ner-2012-11-11/classifiers
+END
+english.muc.7class.distsim.prop
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15/trunk/stanford-ner-2012-11-11/classifiers/english.muc.7class.distsim.prop
+END
+english.conll.4class.distsim.prop
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15/trunk/stanford-ner-2012-11-11/classifiers/english.conll.4class.distsim.prop
+END
+english.all.3class.distsim.prop
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15/trunk/stanford-ner-2012-11-11/classifiers/english.all.3class.distsim.prop
+END
+english.conll.4class.distsim.crf.ser.gz
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15/trunk/stanford-ner-2012-11-11/classifiers/english.conll.4class.distsim.crf.ser.gz
+END
+english.muc.7class.distsim.crf.ser.gz
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15/trunk/stanford-ner-2012-11-11/classifiers/english.muc.7class.distsim.crf.ser.gz
+END
+english.all.3class.distsim.crf.ser.gz
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15/trunk/stanford-ner-2012-11-11/classifiers/english.all.3class.distsim.crf.ser.gz
+END

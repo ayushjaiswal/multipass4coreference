@@ -1,0 +1,1139 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling
+END
+CoreAnnotations.VerbSenseAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.VerbSenseAnnotation.html
+END
+CoreAnnotations.CategoryFunctionalTagAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CategoryFunctionalTagAnnotation.html
+END
+CoreAnnotations.BagOfWordsAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.BagOfWordsAnnotation.html
+END
+CategoryWordTagFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CategoryWordTagFactory.html
+END
+CoreAnnotations.MorphoPersAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.MorphoPersAnnotation.html
+END
+CoreAnnotations.MorphoGenAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.MorphoGenAnnotation.html
+END
+CoreAnnotations.CorefAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CorefAnnotation.html
+END
+CoreAnnotations.AnswerAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.AnswerAnnotation.html
+END
+CoreAnnotations.UnknownAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.UnknownAnnotation.html
+END
+CoreAnnotations.WordFormAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.WordFormAnnotation.html
+END
+Sentence.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/Sentence.html
+END
+AnnotationLookup.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/AnnotationLookup.html
+END
+CoreAnnotations.ParaPosAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ParaPosAnnotation.html
+END
+CoreAnnotations.UTypeAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.UTypeAnnotation.html
+END
+CoreAnnotations.InterpretationAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.InterpretationAnnotation.html
+END
+CoreAnnotations.DomainAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.DomainAnnotation.html
+END
+CoreAnnotations.IndexAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.IndexAnnotation.html
+END
+CoreAnnotations.ChunkAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ChunkAnnotation.html
+END
+CoreAnnotations.LMiddleAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.LMiddleAnnotation.html
+END
+CoreAnnotations.CopyAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CopyAnnotation.html
+END
+Word.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/Word.html
+END
+CoreAnnotations.ValueAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ValueAnnotation.html
+END
+CoreAnnotations.LabelAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.LabelAnnotation.html
+END
+CoreAnnotations.LengthAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.LengthAnnotation.html
+END
+CoreAnnotations.PredictedAnswerAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.PredictedAnswerAnnotation.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/package-frame.html
+END
+CoreAnnotations.DictAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.DictAnnotation.html
+END
+CoreAnnotations.GeniaAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.GeniaAnnotation.html
+END
+CoreAnnotations.MorphoNumAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.MorphoNumAnnotation.html
+END
+CoreAnnotations.OriginalAnswerAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.OriginalAnswerAnnotation.html
+END
+CoreAnnotations.MonthAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.MonthAnnotation.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/package-summary.html
+END
+Labeled.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/Labeled.html
+END
+CoreAnnotations.DependentsAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.DependentsAnnotation.html
+END
+CoreAnnotations.FemaleGazAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.FemaleGazAnnotation.html
+END
+CoreAnnotations.PriorAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.PriorAnnotation.html
+END
+CoreAnnotations.FreqAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.FreqAnnotation.html
+END
+CoreAnnotations.UnaryAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.UnaryAnnotation.html
+END
+CoreAnnotations.TreeAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.TreeAnnotation.html
+END
+CoreAnnotations.D2_LMiddleAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.D2_LMiddleAnnotation.html
+END
+CoreAnnotations.PercentAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.PercentAnnotation.html
+END
+CoreAnnotations.YearAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.YearAnnotation.html
+END
+CoreAnnotations.GoldAnswerAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.GoldAnswerAnnotation.html
+END
+HasWord.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/HasWord.html
+END
+CoreAnnotations.StemAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.StemAnnotation.html
+END
+CoreAnnotations.XmlElementAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.XmlElementAnnotation.html
+END
+CoreAnnotations.TrueTagAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.TrueTagAnnotation.html
+END
+CoreAnnotations.ChineseCharAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ChineseCharAnnotation.html
+END
+CoreAnnotations.ChineseSegAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ChineseSegAnnotation.html
+END
+CoreAnnotations.CorefDestAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CorefDestAnnotation.html
+END
+CyclicCoreLabel.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CyclicCoreLabel.html
+END
+CoreAnnotations.SentenceIDAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SentenceIDAnnotation.html
+END
+CoreAnnotations.BestCliquesAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.BestCliquesAnnotation.html
+END
+CoreAnnotations.D2_LBeginAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.D2_LBeginAnnotation.html
+END
+CoreLabel.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreLabel.html
+END
+CoreAnnotations.WordPosAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.WordPosAnnotation.html
+END
+CoreAnnotations.CoNLLDepAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CoNLLDepAnnotation.html
+END
+CoreAnnotations.ShapeAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ShapeAnnotation.html
+END
+CoreAnnotations.RoleAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.RoleAnnotation.html
+END
+CoreAnnotations.DoAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.DoAnnotation.html
+END
+CoreAnnotations.EntityRuleAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.EntityRuleAnnotation.html
+END
+CoreAnnotations.INAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.INAnnotation.html
+END
+CoreAnnotations.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.html
+END
+CoreAnnotations.ContextsAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ContextsAnnotation.html
+END
+CoreAnnotations.HeightAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.HeightAnnotation.html
+END
+Datum.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/Datum.html
+END
+CoreAnnotations.ProjectedCategoryAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ProjectedCategoryAnnotation.html
+END
+CoreAnnotations.EntityTypeAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.EntityTypeAnnotation.html
+END
+CoreAnnotations.StateAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.StateAnnotation.html
+END
+CoreAnnotations.BestFullAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.BestFullAnnotation.html
+END
+CoreAnnotations.SemanticHeadWordAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SemanticHeadWordAnnotation.html
+END
+CoreAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotation.html
+END
+CoreAnnotations.SentencePosAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SentencePosAnnotation.html
+END
+CoreAnnotations.MarkingAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.MarkingAnnotation.html
+END
+CoreAnnotations.FirstChildAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.FirstChildAnnotation.html
+END
+StringLabelFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/StringLabelFactory.html
+END
+CoreAnnotations.NERIDAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.NERIDAnnotation.html
+END
+DocumentReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/DocumentReader.html
+END
+CoreAnnotations.IDFAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.IDFAnnotation.html
+END
+CoreAnnotations.EntityClassAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.EntityClassAnnotation.html
+END
+CoreAnnotations.BeforeAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.BeforeAnnotation.html
+END
+WordFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/WordFactory.html
+END
+HasIndex.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/HasIndex.html
+END
+CoreAnnotations.GrandparentAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.GrandparentAnnotation.html
+END
+StringLabel.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/StringLabel.html
+END
+CoreAnnotations.TokenEndAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.TokenEndAnnotation.html
+END
+CoreAnnotations.WordSenseAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.WordSenseAnnotation.html
+END
+Featurizable.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/Featurizable.html
+END
+CoreAnnotations.NamedEntityTagAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.NamedEntityTagAnnotation.html
+END
+CoreAnnotations.CategoryAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CategoryAnnotation.html
+END
+Document.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/Document.html
+END
+CoreAnnotations.LastTaggedAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.LastTaggedAnnotation.html
+END
+CoreAnnotations.UBlockAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.UBlockAnnotation.html
+END
+TaggedWordFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/TaggedWordFactory.html
+END
+BasicDocument.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/BasicDocument.html
+END
+CoreAnnotations.NeighborsAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.NeighborsAnnotation.html
+END
+CoreAnnotations.LEndAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.LEndAnnotation.html
+END
+HasOffset.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/HasOffset.html
+END
+CoreAnnotations.DocIDAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.DocIDAnnotation.html
+END
+WordLemmaTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/WordLemmaTag.html
+END
+CoreAnnotations.HeadWordStringAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.HeadWordStringAnnotation.html
+END
+CoreAnnotations.BeAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.BeAnnotation.html
+END
+CoreAnnotations.CoNLLSRLAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CoNLLSRLAnnotation.html
+END
+CoreAnnotations.IDAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.IDAnnotation.html
+END
+CoreAnnotations.SemanticTagAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SemanticTagAnnotation.html
+END
+WordTagFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/WordTagFactory.html
+END
+CoreAnnotations.SpanAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SpanAnnotation.html
+END
+CoreAnnotations.CostMagnificationAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CostMagnificationAnnotation.html
+END
+CoreAnnotations.NormalizedNamedEntityTagAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.NormalizedNamedEntityTagAnnotation.html
+END
+CoreAnnotations.TokensAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.TokensAnnotation.html
+END
+CoreAnnotations.PolarityAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.PolarityAnnotation.html
+END
+HasTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/HasTag.html
+END
+CoreAnnotations.CalendarAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CalendarAnnotation.html
+END
+CoreAnnotations.TagLabelAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.TagLabelAnnotation.html
+END
+CoreAnnotations.PrevChildAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.PrevChildAnnotation.html
+END
+CoreAnnotations.PartOfSpeechAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.PartOfSpeechAnnotation.html
+END
+TaggedWord.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/TaggedWord.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/package-tree.html
+END
+CoreAnnotations.CharacterOffsetEndAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CharacterOffsetEndAnnotation.html
+END
+CoreAnnotations.SentenceIndexAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SentenceIndexAnnotation.html
+END
+CoreAnnotations.IsURLAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.IsURLAnnotation.html
+END
+CoreLabel.GenericAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreLabel.GenericAnnotation.html
+END
+CoreAnnotations.NotAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.NotAnnotation.html
+END
+SentenceProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/SentenceProcessor.html
+END
+CoreAnnotations.LastGazAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.LastGazAnnotation.html
+END
+CoreAnnotations.AbbrAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.AbbrAnnotation.html
+END
+CoreAnnotations.ChineseIsSegmentedAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ChineseIsSegmentedAnnotation.html
+END
+WordTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/WordTag.html
+END
+CoreAnnotations.D2_LEndAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.D2_LEndAnnotation.html
+END
+LabelFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/LabelFactory.html
+END
+CoreAnnotations.SRLInstancesAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SRLInstancesAnnotation.html
+END
+CoreAnnotations.CoarseTagAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CoarseTagAnnotation.html
+END
+CoreAnnotations.WordAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.WordAnnotation.html
+END
+CoreAnnotations.AbstrAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.AbstrAnnotation.html
+END
+ValueLabel.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/ValueLabel.html
+END
+CoreAnnotations.DayAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.DayAnnotation.html
+END
+CoreAnnotations.SpaceBeforeAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SpaceBeforeAnnotation.html
+END
+CoreAnnotations.TrueCaseTextAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.TrueCaseTextAnnotation.html
+END
+HasContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/HasContext.html
+END
+CoreAnnotations.AbgeneAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.AbgeneAnnotation.html
+END
+CoreAnnotations.LeftTermAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.LeftTermAnnotation.html
+END
+CoreAnnotations.TextAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.TextAnnotation.html
+END
+CoreAnnotations.AnswerObjectAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.AnswerObjectAnnotation.html
+END
+CoreAnnotations.ChineseOrigSegAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ChineseOrigSegAnnotation.html
+END
+CoreAnnotations.SemanticWordAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SemanticWordAnnotation.html
+END
+CoreAnnotations.LBeginAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.LBeginAnnotation.html
+END
+CoreAnnotations.AfterAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.AfterAnnotation.html
+END
+CoreAnnotations.GovernorAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.GovernorAnnotation.html
+END
+CoreAnnotations.OriginalCharAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.OriginalCharAnnotation.html
+END
+WordLemmaTagFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/WordLemmaTagFactory.html
+END
+CoreAnnotations.DistSimAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.DistSimAnnotation.html
+END
+CoreAnnotations.SRLIDAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SRLIDAnnotation.html
+END
+Label.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/Label.html
+END
+CoreAnnotations.MaleGazAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.MaleGazAnnotation.html
+END
+CoreAnnotations.SemanticHeadTagAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SemanticHeadTagAnnotation.html
+END
+CoreAnnotations.CurrentAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CurrentAnnotation.html
+END
+CoreAnnotations.PossibleAnswersAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.PossibleAnswersAnnotation.html
+END
+LabeledWord.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/LabeledWord.html
+END
+AnnotationLookup.KeyLookup.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/AnnotationLookup.KeyLookup.html
+END
+CoreAnnotations.IsDateRangeAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.IsDateRangeAnnotation.html
+END
+CoreAnnotations.SentencesAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SentencesAnnotation.html
+END
+CoreAnnotations.ParentAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ParentAnnotation.html
+END
+CoreAnnotations.GazetteerAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.GazetteerAnnotation.html
+END
+CoreAnnotations.LemmaAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.LemmaAnnotation.html
+END
+CoreAnnotations.SubcategorizationAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SubcategorizationAnnotation.html
+END
+CoreAnnotations.EndIndexAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.EndIndexAnnotation.html
+END
+CoreAnnotations.MorphoCaseAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.MorphoCaseAnnotation.html
+END
+CoreAnnotations.CoNLLDepTypeAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CoNLLDepTypeAnnotation.html
+END
+CoreAnnotations.CoNLLDepParentIndexAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CoNLLDepParentIndexAnnotation.html
+END
+CoreAnnotations.SectionAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SectionAnnotation.html
+END
+CoreAnnotations.PositionAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.PositionAnnotation.html
+END
+CategoryWordTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CategoryWordTag.html
+END
+CoreAnnotations.ArgDescendentAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ArgDescendentAnnotation.html
+END
+CoreAnnotations.NumTxtSentencesAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.NumTxtSentencesAnnotation.html
+END
+CoreAnnotations.CharacterOffsetBeginAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CharacterOffsetBeginAnnotation.html
+END
+HasCategory.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/HasCategory.html
+END
+Tag.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/Tag.html
+END
+CoreAnnotations.TrueCaseAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.TrueCaseAnnotation.html
+END
+CoreAnnotations.BeginIndexAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.BeginIndexAnnotation.html
+END
+CoreAnnotations.WebAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.WebAnnotation.html
+END
+CoreAnnotations.CharAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CharAnnotation.html
+END
+CoreAnnotations.FeaturesAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.FeaturesAnnotation.html
+END
+CoreAnnotations.CovertIDAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CovertIDAnnotation.html
+END
+CoreAnnotations.GazAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.GazAnnotation.html
+END
+CoreAnnotations.SRL_ID.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.SRL_ID.html
+END
+CoreAnnotations.ArgumentAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.ArgumentAnnotation.html
+END
+CoreAnnotations.HaveAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.HaveAnnotation.html
+END
+CoreAnnotations.TokenBeginAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.TokenBeginAnnotation.html
+END
+CoreAnnotations.CoNLLPredicateAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/27/trunk/stanford-parser-python-r22186/3rdParty/stanford-parser/stanford-parser-2010-08-20/javadoc/edu/stanford/nlp/ling/CoreAnnotations.CoNLLPredicateAnnotation.html
+END
