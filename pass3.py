@@ -27,7 +27,7 @@ class StrictHeadMatchSieve(Sieve):
         a, b = clusterA, clusterB
         firstA = a.getHeadSpan()
         firstB = b.getHeadSpan()
-        if firstB[0] <= firstA[0] and firstB[1] >= firstB[1]:
+        if firstB[0] <= firstA[0] and firstA[1] >= firstB[1]:
             a, b = b, a
         a.mergeCluster(b)
         self.__mentionClusterList.remove(b)
